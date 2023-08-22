@@ -1,0 +1,1 @@
+allure.project.name=Relatório de testes - Allure Reports
